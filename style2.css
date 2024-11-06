@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(Desktop\ -\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    #twof{
+        font-weight: 800;
+        font-family:  'Montserrat', sans-serif; ;
+        color: white;
+    }
+}
+.hab{
+    display: flex;
+    justify-content: center;
+}
+#heg{
+    font-family:  'Montserrat', sans-serif;;
+    color: white;
+   
+}
+svg{
+    fill: white;
+}
+#abacate{
+    font-size: 60px;
+    padding-top: 50px;
+}
+#listinha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+#foto{
+    display: flex;
+    
+}
+#linda{
+    margin-left: 200px;
+   margin-top: -23vh;
+   height: 20px;
+   width: 20vh;
+}
+#bbla{
+    position: absolute;
+    margin-right: 80%;
+}

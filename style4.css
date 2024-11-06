@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+main {
+    background-image: url(Desktop\ -\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#twof {
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    ;
+    color: white;
+    display: flex;
+    margin-left: 350px;
+    padding-top: 50px;
+}

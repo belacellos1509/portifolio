@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+main {
+    background-image: url(Desktop\ -\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#twof{
+    font-weight: 800;
+    font-family:  'Montserrat', sans-serif; ;
+    color: white;
+}
+.proj{
+   margin-left: 250px;
+   padding-top: 30px;
+}
+#imagens{
+    
+    display: flex;
+    justify-content: space-around;
+    
+}
+#cinco{
+ width: 40px;
+ height: 40px;
+margin-left: 500px;
+}
+#seis{
+    margin-top: 50px;
+}
+#heg{
+    font-family:  'Montserrat', sans-serif;;
+    color: white;
+   
+}
+svg{
+    fill: white;
+}
+#listinha{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    font-size: 40px;
+    margin-left: 50px;
+}

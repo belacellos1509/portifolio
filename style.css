@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+main {
+  
+    background-image: url(image\ 1\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+
+
+}
+
+#cabecalho {
+    height: 7vh;
+    background-color: #3A302A;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 7vh;
+}
+
+#img {
+    top: 200px;
+    left: 350px;
+    position: absolute;
+}
+
+.fonte {
+    color: white;
+    font-size: 140px;
+    padding-left: 90px;
+    padding-top: 130px;
+    font-weight: 600;
+}
+
+#ivp {
+    width: 500px;
+
+}
+
+#frase {
+    position: absolute;
+    margin-bottom: 70vw;
+    margin-left: 40vw;
+}
+
+#nome {
+
+    position: absolute;
+    margin-bottom: 70vw;
+    margin-left: 40vw;
+
+}
+
+#nome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nome h1 {
+    color: white;
+}
+
+#texto {
+    width: 40%;
+    height: 15px;
+    color: white;
+    position: absolute;
+    top: 520px;
+    right: 200px;
+    text-align: center;
+    font-size: 27px;
+    font-family: Montserrat, sans-serif;
+}
+
+#headd {
+    color: white;
+    display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#headd>h1{
+    font-weight: 100;
+    }
+
+#h {
+    grid-column-start: 3;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 0;
+    font-family: Montserrat, sans-serif;
+}
+#h>h1{
+    font-weight: 100;
+    }
+
+#e {
+    grid-column-start: 4;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 0;
+    font-family: Montserrat, sans-serif;
+}
+#e>h1{
+font-weight: 100;
+}
+
+#a {
+    grid-column-start: 5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 0;
+    font-family: Montserrat, sans-serif;
+}
+#a>h1{
+    font-weight: 100;
+    }
+#d {
+    grid-column-start: 6;
+    fill: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#d>h1{
+    font-weight: 100;
+    }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #735C4B;
+    text-decoration: none;
+}
+#d > svg{
+position: relative;
+}
